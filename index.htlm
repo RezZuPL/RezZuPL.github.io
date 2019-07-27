@@ -1,3 +1,57 @@
+<html>
+<head>
+<title>Discord Webhook Sender • MrPowerGamerBR</title>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-53518408-11"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-53518408-11');
+</script>
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://mrpowergamerbr.com/assets/js/kotlin.js"></script>
+<script src="https://mrpowergamerbr.com/assets/js/WhistlerUtils.js"></script>
+<link rel="stylesheet" href="{{ websiteUrl }}assets/css/normalize.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+<link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/pure-min.css">
+<link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/grids-responsive-min.css">
+<link rel="stylesheet" type="text/css" href="https://mrpowergamerbr.com/assets/css/style.css?v5">
+<link rel="stylesheet" type="text/css" href="https://mrpowergamerbr.com/assets/css/rainbow.css">
+<link rel="stylesheet" type="text/css" href="https://mrpowergamerbr.com/remodal.css">
+<link rel="stylesheet" type="text/css" href="https://mrpowergamerbr.com/remodal-default-theme.css">
+<meta property="og:site_name" content="Website do MrPowerGamerBR">
+<meta property="og:description" content="Envie mensagens por uma webhook!">
+<meta property="og:title" content="Discord Webhook Sender">
+<meta property="og:image" content="https://mrpowergamerbr.com/assets/img/avatar.png">
+<meta property="og:ttl" content="600">
+<meta property="og:image:width" content="320">
+<meta property="twitter:site" content="loritta">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:title" content="Discord Webhook Sender">
+<meta name="theme-color" content="#00c1df">
+<link async href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+<link async href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+<link async href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+<link async href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<script data-cfasync="false" defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+<script data-cfasync="false" src="https://mrpowergamerbr.com/assets/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script> <link rel="Stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lobster">
+</head>
+<body>
+<div class="topnav navbar-fixed-top" id="myTopnav">
+<div class="topnavWrapper">
+<div class="topnavLeft"><a href="https://mrpowergamerbr.com/" class="bot-title">MrPowerGamerBR</a><a href="https://mrpowergamerbr.com/blog"><i class="fas fa-paper-plane"></i> Blog</a><a href="https://mrpowergamerbr.com/projects"><i class="fas fa-star"></i> Meus Projetos</a><a href="https://mrpowergamerbr.com/notebook"><i class="fas fa-book"></i> Caderno</a><a href="https://mrpowergamerbr.com/sobre"><i class="fas fa-hand-peace"></i> Sobre</a></div>
+<div class="topnavRight"><a href="javascript:void(0);" class="icon" onclick="myFunction()">☰</a></div>
+</div>
+</div>
+<div id="dummyNavbar"></div>
+<div id="wrapper">
+<div>
+<div id="imageHeader"><img src="https://mrpowergamerbr.com/assets/img/mrpowergamerbr_logo.png?v3" class="swingimage"></div>
+</div>
 <div id="content">
 <div id="page-content">
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9989170954243288" data-ad-slot="3593966903" data-ad-format="auto"></ins>
@@ -28,10 +82,10 @@
 <div id="embed-area-wrapper"></div>
 <button name="add-embed">Adicionar Embed</button>
 <div class="flavour-text">Exemplo de uma Embed</div>
-<pre>{"title":"👋 Howdy!", "description": "A Lori é muito fofa! :3"}</pre>
+<pre>{&quot;title&quot;:&quot;👋 Howdy!&quot;, &quot;description&quot;: &quot;A Lori é muito fofa! :3&quot;}</pre>
 <hr>
 <button name="send-message">Enviar!</button>
-<pre id="html-output">{"nonce": null, "attachments": [{"url": "https://cdn.discordapp.com/attachments/536975508496318474/604738694347358210/1552800668570.png", "proxy_url": "https://media.discordapp.net/attachments/536975508496318474/604738694347358210/1552800668570.png", "filename": "1552800668570.png", "width": 625, "height": 625, "id": "604738694347358210", "size": 135141}], "tts": false, "embeds": [], "timestamp": "2019-07-27T18:15:40.234000+00:00", "mention_everyone": true, "webhook_id": "599376755375079435", "id": "604738694347358212", "pinned": false, "edited_timestamp": null, "author": {"username": "Jonatan", "discriminator": "0000", "bot": true, "id": "599376755375079435", "avatar": "6b8331adfed3cb14232bc1919b3cd8e6"}, "mention_roles": [], "content": "BojackBot jest gotowy! Od teraz b\u0119d\u0105 si\u0119 pojawia\u0142y tylko jakie\u015b naprawy  :3 @everyone", "channel_id": "536975508496318474", "mentions": [], "type": 0}</pre>
+<pre id="html-output">HTML output... owo whats this???</pre>
 <script src="https://mrpowergamerbr.com/assets/js/DiscordWebhooks.js"></script>
 
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9989170954243288" data-ad-slot="3593966903" data-ad-format="auto"></ins>
@@ -42,6 +96,10 @@
 <div style="text-align: center; font-weight: 600;"><a style="color: hsla(0,0%,100%,.6);" href="https://mrpowergamerbr.com/">https://mrpowergamerbr.com/</a></div>
 <hr>
 <div style="text-align: center; font-size: 14px; padding-bottom: 8px;">A Loritta não está de forma alguma afiliado ao Discord. Nem deve ser considerada uma empresa endossada pelo Discord.</div>
-<div style="text-align: center; font-size: 10px;">Discord ®/™ &amp; © 2015-<script>document.write(new Date().getFullYear());</script>20192018 Discord Inc.</div>
+<div style="text-align: center; font-size: 10px;">Discord ®/™ &amp; © 2015-<script>document.write(new Date().getFullYear());</script>2018 Discord Inc.</div>
 <div style="text-align: center; font-size: 14px; padding-bottom: 8px;">By using Loritta and/or this website, you agree to our <a href="https://loritta.website/us/privacy" style="color: hsla(0,0%,100%,.6);">Terms of Service &amp; Privacy Policy</a></div></footer>
 </div>
+</div>
+<script type="text/javascript">$('#dummyNavbar').css("height", $('#myTopnav').height())</script>
+</body>
+</html>
