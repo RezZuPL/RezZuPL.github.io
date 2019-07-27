@@ -1,56 +1,3 @@
-<html class="fontawesome-i2svg-active fontawesome-i2svg-complete"><head>
-<title>Discord Webhook Sender • MrPowerGamerBR</title>
-
-<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-53518408-11"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-53518408-11');
-</script>
-<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script src="https://mrpowergamerbr.com/assets/js/kotlin.js"></script>
-<script src="https://mrpowergamerbr.com/assets/js/WhistlerUtils.js"></script>
-<style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-12.5%;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1em}.svg-inline--fa.fa-stack-2x{height:2em;width:2em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}</style><link rel="stylesheet" href="{{ websiteUrl }}assets/css/normalize.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
-<link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/pure-min.css">
-<link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/grids-responsive-min.css">
-<link rel="stylesheet" type="text/css" href="https://mrpowergamerbr.com/assets/css/style.css?v5">
-<link rel="stylesheet" type="text/css" href="https://mrpowergamerbr.com/assets/css/rainbow.css">
-<link rel="stylesheet" type="text/css" href="https://mrpowergamerbr.com/remodal.css">
-<link rel="stylesheet" type="text/css" href="https://mrpowergamerbr.com/remodal-default-theme.css">
-<meta property="og:site_name" content="Website do MrPowerGamerBR">
-<meta property="og:description" content="Envie mensagens por uma webhook!">
-<meta property="og:title" content="Discord Webhook Sender">
-<meta property="og:image" content="https://mrpowergamerbr.com/assets/img/avatar.png">
-<meta property="og:ttl" content="600">
-<meta property="og:image:width" content="320">
-<meta property="twitter:site" content="loritta">
-<meta property="twitter:card" content="summary">
-<meta property="twitter:title" content="Discord Webhook Sender">
-<meta name="theme-color" content="#00c1df">
-<link async="" href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
-<link async="" href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
-<link async="" href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
-<link async="" href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
-<script data-cfasync="false" defer="" src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
-<script data-cfasync="false" src="https://mrpowergamerbr.com/assets/js/highlight.pack.js"></script>
-<script>hljs.initHighlightingOnLoad();</script> <link rel="Stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lobster">
-</head>
-<body>
-<div class="topnav navbar-fixed-top" id="myTopnav">
-<div class="topnavWrapper">
-<div class="topnavLeft"><a href="https://mrpowergamerbr.com/" class="bot-title">MrPowerGamerBR</a><a href="https://mrpowergamerbr.com/blog"><svg class="svg-inline--fa fa-paper-plane fa-w-16" aria-hidden="true" data-fa-processed="" data-prefix="fas" data-icon="paper-plane" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M476 3.2L12.5 270.6c-18.1 10.4-15.8 35.6 2.2 43.2L121 358.4l287.3-253.2c5.5-4.9 13.3 2.6 8.6 8.3L176 407v80.5c0 23.6 28.5 32.9 42.5 15.8L282 426l124.6 52.2c14.2 6 30.4-2.9 33-18.2l72-432C515 7.8 493.3-6.8 476 3.2z"></path></svg><!-- <i class="fas fa-paper-plane"></i> --> Blog</a><a href="https://mrpowergamerbr.com/projects"><svg class="svg-inline--fa fa-star fa-w-18" aria-hidden="true" data-fa-processed="" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg><!-- <i class="fas fa-star"></i> --> Meus Projetos</a><a href="https://mrpowergamerbr.com/notebook"><svg class="svg-inline--fa fa-book fa-w-14" aria-hidden="true" data-fa-processed="" data-prefix="fas" data-icon="book" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M448 360V24c0-13.3-10.7-24-24-24H96C43 0 0 43 0 96v320c0 53 43 96 96 96h328c13.3 0 24-10.7 24-24v-16c0-7.5-3.5-14.3-8.9-18.7-4.2-15.4-4.2-59.3 0-74.7 5.4-4.3 8.9-11.1 8.9-18.6zM128 134c0-3.3 2.7-6 6-6h212c3.3 0 6 2.7 6 6v20c0 3.3-2.7 6-6 6H134c-3.3 0-6-2.7-6-6v-20zm0 64c0-3.3 2.7-6 6-6h212c3.3 0 6 2.7 6 6v20c0 3.3-2.7 6-6 6H134c-3.3 0-6-2.7-6-6v-20zm253.4 250H96c-17.7 0-32-14.3-32-32 0-17.6 14.4-32 32-32h285.4c-1.9 17.1-1.9 46.9 0 64z"></path></svg><!-- <i class="fas fa-book"></i> --> Caderno</a><a href="https://mrpowergamerbr.com/sobre"><svg class="svg-inline--fa fa-hand-peace fa-w-14" aria-hidden="true" data-fa-processed="" data-prefix="fas" data-icon="hand-peace" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M408 216c-22.092 0-40 17.909-40 40h-8v-32c0-22.091-17.908-40-40-40s-40 17.909-40 40v32h-8V48c0-26.51-21.49-48-48-48s-48 21.49-48 48v208h-13.572L92.688 78.449C82.994 53.774 55.134 41.63 30.461 51.324 5.787 61.017-6.356 88.877 3.337 113.551l74.765 190.342-31.09 24.872c-15.381 12.306-19.515 33.978-9.741 51.081l64 112A39.998 39.998 0 0 0 136 512h240c18.562 0 34.686-12.77 38.937-30.838l32-136A39.97 39.97 0 0 0 448 336v-80c0-22.091-17.908-40-40-40z"></path></svg><!-- <i class="fas fa-hand-peace"></i> --> Sobre</a></div>
-<div class="topnavRight"><a href="javascript:void(0);" class="icon" onclick="myFunction()">☰</a></div>
-</div>
-</div>
-<div id="dummyNavbar" style="height: 47px;"></div>
-<div id="wrapper">
-<div>
-<div id="imageHeader"><img src="https://mrpowergamerbr.com/assets/img/mrpowergamerbr_logo.png?v3" class="swingimage"></div>
-</div>
 <div id="content">
 <div id="page-content">
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9989170954243288" data-ad-slot="3593966903" data-ad-format="auto"></ins>
@@ -98,8 +45,3 @@
 <div style="text-align: center; font-size: 10px;">Discord ®/™ &amp; © 2015-<script>document.write(new Date().getFullYear());</script>20192018 Discord Inc.</div>
 <div style="text-align: center; font-size: 14px; padding-bottom: 8px;">By using Loritta and/or this website, you agree to our <a href="https://loritta.website/us/privacy" style="color: hsla(0,0%,100%,.6);">Terms of Service &amp; Privacy Policy</a></div></footer>
 </div>
-</div>
-<script type="text/javascript">$('#dummyNavbar').css("height", $('#myTopnav').height())</script>
-
-
-</body></html>
